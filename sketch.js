@@ -59,7 +59,7 @@ function setup() {
   if(isMobile){
     canW = displayWidth
     canH = displayHeight
-    createCanvas(displaywidth+80,dispplayHeight)
+    createCanvas(displaywidth,dispplayHeight)
 
   }
   else{
